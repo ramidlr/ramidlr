@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ramiro del Rio, argentinian living in Spain.
+- 👋 Hi! I’m Ramiro del Rio, argentinian/italian living in Spain.
 - 👀 I’m interested in music & tech.
-- 🌱 I’m currently learning JavaScript ES6, HTML and CSS :)
+- 🌱 I’m currently learning JavaScript ES6, HTML and CSS :) My goal is to become a javascript developer by 2022. 
 - 📫 Reach me at: ramiro.drio@gmail.com (@ramidlr on instagram && tw)
 - www.linkedin.com/in/ramirodelrio
 <!---
