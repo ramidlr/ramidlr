@@ -1,5 +1,8 @@
-- 👋 Hi! I’m Ramiro del Rio, 31, argentinian/italian living in Spain.
-- 👀 I’m interested in music & tech.
-- 🌱 I’m currently working at Avature as a functional analyst. I'm also learning JavaScript ES6, HTML and CSS :) My goal is to become a front-end developer by 2023. 
-- 📫 Reach me at: +34646796452, ramiro.drio@gmail.com, or @ramidlr on instagram && twitter.
+- 👋 Hi! I’m Ramiro del Rio, argentinian based in Barcelona, Spain.
+- 👀 I’m interested in music, technology and start-ups.
+- 🌱 I’m a functional analyst at Avature, a SaaS HR software platform.
+- Currently learning Angular and Typescript :) My goal is to become a front-end developer. 
+- 📫 You can reach me at:
+- +34646796452,
+- ramiro.drio@gmail.com, or
 - https://linkedin.com/in/ramirodelrio
