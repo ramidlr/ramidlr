@@ -1,7 +1,8 @@
 - 👋 Hi! I’m Ramiro del Rio, argentinian based in Barcelona, Spain.
 - 👀 I’m interested in music, technology and start-ups.
 - 🌱 I’m a functional analyst at Avature, a SaaS HR software platform.
-- Currently learning Angular and Typescript :) My goal is to become a front-end developer. 
+- Learning Angular and Typescript :)
+- Building comoamigos, a peer to peer marketplace for items storage (https://como-amigos.com) 
 - 📫 You can reach me at:
 - +34646796452,
 - ramiro.drio@gmail.com, or
