@@ -1,9 +1,9 @@
-- 👋 Hi! I’m Ramiro del Rio, argentinian based in Barcelona, Spain.
-- 👀 I’m interested in music, technology and start-ups.
+- 👋 Hi! I’m Rami, argentinian based in Barcelona, Spain.
+- 👀 I’m interested in hip-hop and electronic music, technology and start-ups.
 - 🌱 I’m a functional analyst at Avature, a SaaS HR software platform.
-- Learning Angular and Typescript :)
-- Building comoamigos, a peer to peer marketplace for items storage (https://como-amigos.com) 
-- 📫 You can reach me at:
+- Angular and Typescript :)
+- Co-founded comoamigos, a P2P marketplace for item storage (https://como-amigos.com) 
+- 📫 Reach me at:
 - +34646796452,
 - ramiro.drio@gmail.com, or
 - https://linkedin.com/in/ramirodelrio
