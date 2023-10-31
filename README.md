@@ -2,7 +2,7 @@
 - 👀 I’m interested in hip-hop and electronic music, technology and start-ups.
 - 🌱 I’m a functional analyst at Avature, a SaaS HR software platform.
 - Angular and Typescript :)
-- Co-founded Como Amigos, a peer-to-peer marketplace for flexible item storage. Join us at https://como-amigos.com 
+- Buliding ComoAmigos, a peer-to-peer marketplace for flexible item storage & more to come. Join us at https://como-amigos.com 
 - 📫 Reach me at:
 - +34646796452,
 - ramiro.drio@gmail.com, or
