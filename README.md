@@ -9,7 +9,7 @@
 As a developer in-the-making, I write code in html, css, angular and typescript (learning the latter) :) 
 These are my previous and current projects:
 - Before: 'Catalog', a b2c marketplace for streetwear brands but never launched it correctly.
-- Now: Building 'comoamigos' -https://como-amigos.com- a P2P marketplace for flexible item storage & more to come.
+- Now: Building 'comoamigos' -https://como-amigos.com- a P2P marketplace for flexible item storage, room renting & more to come.
 
 📫 **Reach me at**:
 - +34646796452,
