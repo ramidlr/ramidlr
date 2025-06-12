@@ -6,11 +6,11 @@
 
 
 **Projects**
-Languages: HTML, CSS, Angular, Typescript, Javascript, PHP, Twig, Liquid :) 
+Languages: HTML, CSS, Angular, Typescript, Javascript, ReactJs, PHP, Twig :) 
 These are my previous and current projects:
 - Before: 'Catalog', a b2c marketplace for streetwear brands but never launched it correctly.
 - Then: Building 'comoamigos' -https://como-amigos.com- a P2P marketplace for flexible item storage, room renting & more to come.
-- Now: Building custom e-commerce stores in shopify.
+- Now: React Js and Framer
 
 📫 **Reach me at**:
 - +34646796452,
