@@ -8,8 +8,8 @@
 **Projects**
 Languages: HTML, CSS, Angular, Typescript, Javascript, ReactJs, PHP, Twig :) 
 These are my previous and current projects:
-- Before: 'Catalog', a b2c marketplace for streetwear brands but never launched it correctly.
-- Then: Building 'comoamigos' -https://como-amigos.com- a P2P marketplace for flexible item storage, room renting & more to come.
+- Catalog: a B2C marketplace for streetwear brands but never launched it correctly.
+- Comoamigos: a P2P marketplace for flexible item storage, room renting & more to come.
 - Now: Learning React Js, Framer and other no-code tools.
 
 📫 **Let's chat**:
