@@ -1,4 +1,4 @@
-👋 Hi! I’m Rami, an argentinian full-stack developer based in Barcelona, Spain.
+👋 Hi! I’m Rami, an argentinian full-stack developer based in Spain.
 
 **Work & Interest**
 - Full-stack developer, former technical analyst, at Avature, a SaaS HR software platform.
