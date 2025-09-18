@@ -3,7 +3,7 @@
 **Work & Interest**
 - Full-stack developer, former technical analyst, at Avature, a SaaS HR software platform.
 - 👀 I produce hip-hop beats and electronic music.
-- My creative agency: https:/propely.design
+- My creative agency: [https://propely.design]
 
 **Projects**
 Languages: HTML, CSS, Angular, Typescript, Javascript, ReactJs, PHP, Twig :) 
